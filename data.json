@@ -2,7 +2,7 @@
     {
         "title": "Star Gazing Nights",
         "description": "Monthly public observation events on campus where members set up telescopes and guide attendees through the night sky.",
-        "price": " "
+        "price": "free"
     },
     {
         "title": "Astrophotography Workshops",
@@ -41,5 +41,6 @@
     }
 
 ]
+
 
 
